@@ -1,0 +1,5 @@
+This simple little command line utility will report the current battery status and charge level.
+
+Usage:
+iPhone:~ root# ./battery
+2011-03-14 14:07:16.058 battery[1523:107] Battery is charging. (100%)
